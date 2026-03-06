@@ -4,6 +4,29 @@
 
 *THEORY*:
 
+Pandas is a powerful Python library used for data analysis and data manipulation. It is mainly used to handle structured data such as tables, spreadsheets, and databases.
+
+The name Pandas is derived from Panel Data, which refers to multidimensional structured datasets.
+
+Pandas provides two main data structures:
+
+Series – One-dimensional labeled array
+
+DataFrame – Two-dimensional table consisting of rows and columns
+
+Pandas is widely used in:
+
+Data cleaning
+
+Exploratory Data Analysis (EDA)
+
+Data transformation
+
+Data visualization preparation
+
+It also provides many built-in functions for filtering, indexing, statistical analysis, and data manipulation.
+
+Definitions of Important Terms
 1️. Pandas: Pandas is a Python library used for data analysis. It handles structured data. Used for data cleaning, filtering and statistical analysis.
 
 2️. Series: One-dimensional labeled array. Can store integers, strings, float values. Similar to a single column in a table.
